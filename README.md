@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Ziv Francis
 
 🎓 **B.Sc. Computer Science** from The Academic College of Tel-Aviv-Yaffo  
-💡 **Founder & Team Lead @GainIt** — an AI-powered platform helping juniors gain real-world experience through collaborative tech projects.  
+💡 **Founder & Team Lead @GainIt** - an AI-powered platform helping juniors gain real-world experience through collaborative tech projects.  
 🚀 Passionate about **building impactful products**, **AI integrations**, and **creating opportunities** for the next generation of developers.
 
 ---

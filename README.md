@@ -15,7 +15,7 @@
 ---
 
 ### 🛠 Tech Stack
-**Languages:** C#, Python, JavaScript, SQL  
+**Languages:** C#, C++ Python, JavaScript, SQL  
 **Frameworks:** React, .NET, Flask  
 **Cloud & Tools:** Azure, BigQuery, Docker, Git, Figma  
 

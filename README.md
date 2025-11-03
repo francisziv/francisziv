@@ -29,8 +29,8 @@
 ---
 
 ### 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/zivfrancis/)  
-- 💻 [GitHub Projects](https://github.com/francisziv)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ziv-francis/)  
+- 💻 [GitHub Projects](https://github.com/francisziv?tab=repositories)  
 - 🌐 [GainIt](https://github.com/LetsGainit)
 
 ---
